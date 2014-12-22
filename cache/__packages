@@ -1,0 +1,16 @@
+base
+knitr
+lattice
+ggplot2
+caret
+rpart
+rattle
+survival
+Formula
+Hmisc
+randomForest
+foreach
+iterators
+doParallel
+e1071
+xtable
